@@ -1,0 +1,1 @@
+After reviewing the various recommended books on the Internet, everyone recommended this "Effective Java", but there is a saying that the Chinese version of the translation does not understand some places, so I bought the English version.
