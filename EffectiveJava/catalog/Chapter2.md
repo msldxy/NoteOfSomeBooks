@@ -23,6 +23,29 @@ how to manage any cleanup actions that must precede[^2] their destruction.
 * **A second shortcoming of static factory methods is that they are hard for programmers to find.**
 
 
+## Item2: Consider a builder when faced with many constructors parameters
+
+
+## Item3: Enforce the singleton property with a private constructor or an enum type
+
+
+## Item4: Enforce noninstantiability with a private constructor
+
+
+## Item5: Prefer dependency injection to hardwiring resources
+
+
+## Item6: Avoid creating unnecessary objects
+
+
+## Item7: Eliminate obsolete object references
+
+
+## Item8: Avoid finalizers and cleaners
+
+
+## Item9: Prefer try-with-resources to try-finally
+
 
 [^1]:及时地
 [^2]:优于
