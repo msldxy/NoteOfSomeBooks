@@ -1,6 +1,6 @@
 # Chapter3 Methods Common to All Object
 
-fouce on:
+focus on:
     the override of all of the class Object's nonfinal methods(equals,hashCode,toString,clone,finalize)
     and methods Comparable.comparaTo
 
